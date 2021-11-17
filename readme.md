@@ -14,8 +14,10 @@ A nice tutorial to show how to use following tools and technologies:
 * Ganache simulator
 * Truffle development framework
 * Web3.js JavaScript library
+
 It also shows how to install Metamask extension to chrome web browser.
 Metamask is an extension that we can add it to web browsers to handle communication with Ethereum networks ( both Mainnet and simulators). 
+
 
 **Sodility basics for JavaScript Devs**
 
