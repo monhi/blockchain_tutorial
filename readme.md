@@ -2,7 +2,7 @@
 # Blockchain Tutorial
 Every week, I try to read some essays and articles about blockchain technologies and programming skills. 
 Keeping a track of those articles is something that I always handle with MS word documents.
-But now I thinks it is good idea to share it as a Github repository. 
+But now I think it is good idea to share it as a Github repository. 
 In this way other blockchain enthusiasts can also use it. 
 
 **Ethereum Blockchain App using Ganache | Truffle | Solidity | Web3.js**
