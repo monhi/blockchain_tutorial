@@ -40,3 +40,14 @@ In these 2 articles,  The writer tries to pinpoint the differences between  Java
 
 One of the good aspects of these articles is that it shows some  interactions between  web3.js and Ethers.js libraries with solidity contracts.
 
+## Solidity language document
+
+<a href="https://docs.soliditylang.org/en/v0.8.10/">Link 1</a>
+
+This link points to the documents folder of solidity language. 
+The important point about this link is that it updates based on the version of Solidity language.
+Consider it as a reference to the language.
+
+
+
+
