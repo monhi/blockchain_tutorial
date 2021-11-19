@@ -44,9 +44,11 @@ One of the good aspects of these articles is that it shows some  interactions be
 
 <a href="https://docs.soliditylang.org/en/v0.8.10/">Link 1</a>
 
-This link points to the documents folder of solidity language. 
+This link points to the documents contents of solidity language. 
 The important point about this link is that it updates based on the version of Solidity language.
+Thus the version part of above link may change based on the changes that happen.
 Consider it as a reference to the language.
+It is supposed to be comprehensive.
 
 
 
