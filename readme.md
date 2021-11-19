@@ -5,6 +5,12 @@ Keeping a track of those articles is something that I always handle with MS word
 But now I think it is good idea to share it as a Github repository. 
 In this way other blockchain enthusiasts can also use it. 
 
+## Blockchain introduction video in youtube
+
+<a href="https://www.youtube.com/watch?v=SSo_EIwHSd4">Link</a>
+
+This link points to a youtube video in which basic theory of Blockchain is described.
+
 ## Building a Simple Cryptocurrency Blockchain using Node.js
 
 <a href="https://www.section.io/engineering-education/building-a-simple-cryptocurrency-blockchain/">Link</a>
