@@ -58,10 +58,11 @@ It is supposed to be comprehensive.
 
 ## The Ultimate Guide to Web3 – What is Web3?
 
-<a href=https://moralis.io/the-ultimate-guide-to-web3-what-is-web3/">Link 1</a>
+<a href="https://moralis.io/the-ultimate-guide-to-web3-what-is-web3/">Link </a>
                                                             
                                                                     
-In this link, you can find a good introduction about Web3.js library.
+In this link, you can find a good introductory article about Web3.js library.
+
                                                                     
                                                                
                                                                     
