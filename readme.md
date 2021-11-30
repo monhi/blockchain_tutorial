@@ -63,6 +63,12 @@ It is supposed to be comprehensive.
                                                                     
 In this link, you can find a good introductory article about Web3.js library.
 
+## Web3 official documents
+
+<a href="https://web3js.readthedocs.io/en/v1.5.2/">Link </a>
+
+Above link points to the official documents of web3 project.
+
                                                                     
                                                                
                                                                     
