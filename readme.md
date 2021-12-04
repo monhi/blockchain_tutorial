@@ -56,6 +56,15 @@ Thus the version part of above link may change based on the changes that happen.
 Consider it as a reference to the language.
 It is supposed to be comprehensive.
 
+## Solidity by example
+
+<a href="https://solidity-by-example.org/">Link</a>
+
+This website is a very nice one which gives an introduction to Solidity with simple examples.
+It also has a youtube link which most codes explained there.
+
+
+
 ## The Ultimate Guide to Web3 – What is Web3?
 
 <a href="https://moralis.io/the-ultimate-guide-to-web3-what-is-web3/">Link </a>
