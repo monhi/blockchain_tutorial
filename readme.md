@@ -74,12 +74,17 @@ In this link, you can find a good introductory article about Web3.js library.
 
 ## Web3 official documents
 
-<a href="https://web3js.readthedocs.io/en/v1.5.2/">Link </a>
+<a href="https://web3js.readthedocs.io/en/v1.5.2/">Link</a>
 
 Above link points to the official documents of web3 project.
 
-                                                                    
-                                                               
+## Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider
+                        
+<a href=https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">Link</a>
+
+This is one of the best guides that I find when studding Solidity. His style of teching is great.
+                                                                                          
+                                                                                          
                                                                     
 
 
