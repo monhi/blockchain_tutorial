@@ -86,7 +86,16 @@ This is one of the best guides that I find when studding Solidity. His style of 
 He also teaches a lot of other things like web programming and node.js in this course. 
 
 
-                                                                                          
+## Ethereum blockchain developer
+
+
+<a href="https://ethereum-blockchain-developer.com">Link</a>
+
+I just copy followings from the beginning of above link:
+
+"Heyo! So, you thought "Blockchains" are a cool thing? You have no idea where to start? This whole thing is too hard to figure out with weird YouTube tutorials and outdated sites?
+Guess what!?
+You're at the right place! And with my help you're developing your own Smart Contracts in no time!"
                                                                                           
                                                                     
 
