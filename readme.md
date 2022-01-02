@@ -96,8 +96,14 @@ I just copy followings from the beginning of above link:
 "Heyo! So, you thought "Blockchains" are a cool thing? You have no idea where to start? This whole thing is too hard to figure out with weird YouTube tutorials and outdated sites?
 Guess what!?
 You're at the right place! And with my help you're developing your own Smart Contracts in no time!"
-                                                                                          
+                                
+## Ethereum blockchain developer
                                                                     
+<a href="https://blog.logrocket.com/how-to-create-nfts-with-javascript">Link</a>
+
+The title of this article is "How to create NFTs with JavaScript"
+
+It gives a good and step by step tutorial to create a NFT.
 
 
 
