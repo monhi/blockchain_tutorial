@@ -103,6 +103,14 @@ You're at the right place! And with my help you're developing your own Smart Con
 
 It gives a good and step by step tutorial to create a NFT.
 
+## Smart Contract Security
+
+<a href=https://github.com/sigp/solidity-security-blog">Link</a>
+
+This repository is the basis for the blog post found here: https://blog.sigmaprime.io/solidity-security.html.
+
+It forms the basis of the Smart Contract Security section in the Mastering Ethereum book: https://github.com/ethereumbook/ethereumbook
+                                                   
 
 
 
