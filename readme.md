@@ -105,7 +105,7 @@ It gives a good and step by step tutorial to create a NFT.
 
 ## Smart Contract Security
 
-<a href=https://github.com/sigp/solidity-security-blog">Link</a>
+<a href="https://github.com/sigp/solidity-security-blog">Link</a>
 
 This repository is the basis for the blog post found here: https://blog.sigmaprime.io/solidity-security.html.
 
