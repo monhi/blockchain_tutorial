@@ -111,6 +111,14 @@ This repository is the basis for the blog post found here: https://blog.sigmapri
 
 It forms the basis of the Smart Contract Security section in the Mastering Ethereum book: https://github.com/ethereumbook/ethereumbook
                                                    
+## Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started
 
+<a href="https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started>Link</a>
+
+Above article is a good resource pool for beginners written by Olubisi Idris Ayinde. 
+         
+
+
+         
 
 
